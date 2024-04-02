@@ -1,4 +1,4 @@
-# TrackingMore: GLS Tracking API
+# TrackingMore: GLS Tracking API & Webhook
 [GLS Tracking API](https://www.trackingmore.com/gls-tracking-api.html) enables direct integration of GLS's detailed shipping data into your operational systems, significantly enhancing your capacity to monitor shipments accurately. 
 
 TrackingMore goes further by delivering a [unified API](https://www.trackingmore.com/tracking-api) solution that brings together shipment tracking data from an extensive network of over 1,200 carriers worldwide, facilitating a more expansive tracking operation.
@@ -7,7 +7,7 @@ TrackingMore's API supports integration with seven distinct programming language
 
 ### Features
    *  Unified real-time tracking information for GLS shipments.
-   *  Webhook support for automatic shipment status updates.
+   *  [Webhook](https://www.trackingmore.com/docs/trackingmore/79dpyqt0qaebs-webhook-overview) support for automatic shipment status updates.
 
 ### Tracking Status Glossary
 
